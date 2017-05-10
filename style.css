@@ -1,0 +1,339 @@
+.Section{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+width: 100%;
+height: 90vh;
+background: linear-gradient(45deg, rgba(5,186,255,1), rgba(31,160,160,1), rgba(21,25,32,1));
+top: 0;
+
+}
+.Head{
+display:flex;
+justify-content: space-between;
+align-items: flex-start;
+flex-direction: row;
+ width: 100%;
+ height: 25%;
+ background: transparent;
+
+
+}
+.Logo{
+	display: flex;
+	justify-content: flex-start;
+	width: 50%;
+	height: 100%;
+	background-repeat: no-repeat;
+ background-image: url("Versão-Horizontal-2-Monocromática-Branco.png");
+ background-size: 450px 110px;
+}
+.Arquitetura{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("arquitetura.jpg");
+ background-size: 800px 550px;
+}
+.Comparacao{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("comparacao.png");
+ background-size: 805px 400px;
+}
+.tecno{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("tecnologias.png");
+ background-size: 805px 400px;
+}
+.user{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("table.png");
+ background-size: 805px 400px;
+}
+.referencial{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("referencial.png");
+ background-size: 805px 400px;
+}
+.banco{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("banco.png");
+ background-size: 805px 400px;
+}
+.pwa{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("pwa.png");
+ background-size: 805px 400px;
+}
+.bac1{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("BAC.png");
+ background-size: 805px 400px;
+}
+.ref2{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("ref2.png");
+ background-size: 805px 400px;
+}
+.xax{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("xax.png");
+ background-size: 805px 400px;
+}
+
+.ref3{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("ref3.png");
+ background-size: 805px 400px;
+}
+.futuras{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("futuras.png");
+ background-size: 805px 400px;
+}
+.realizados{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("cronograma.png");
+ background-size: 805px 400px;
+}
+.tela{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("tela.png");
+ background-size: 805px 400px;
+}
+.tela1{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("telas1.png");
+ background-size: 805px 400px;
+}
+.telas{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("telas.png");
+ background-size: 805px 400px;
+}
+.resut{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("imagemr.png");
+ background-size: 805px 400px;
+}
+.stories{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("users.png");
+ background-size: 805px 400px;
+}
+.Correlato{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("trabCorre.png");
+ background-size: 805px 410px;
+}
+.tRACorrelato{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("Corelato.png");
+ background-size: 805px 410px;
+}
+.final{
+	width: 90%;
+	height: 90%;
+	background-repeat: no-repeat;
+ background-image: url("final.png");
+ background-size: 805px 410px;
+}
+.curso{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	color: white;
+	font-size: 1.8em;
+	width: 50%;
+	height: 100%
+}
+.Body{
+ width: 100%;
+ height: 75%;
+ background: transparent;
+ display: flex;
+ flex-direction: column;
+}
+.orientador{
+	width: 100%;
+	height: 15%;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 0.5em;
+
+}
+.Title{
+	width: 100%;
+	height: 18%;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	 
+
+}
+.SectionContent{
+display: flex;
+justify-content: center;
+flex-direction: column;
+width: 99.9%;
+top: 0;
+height: 85vh;
+background-color: white;
+border: solid 2px rgba(31,160,160,1);
+font-size: 1.2em!important;
+font-family: 'Open Sans Condensed', sans-serif!important;
+justify-content: space-around;
+}
+.Line{
+	width: 100%;
+	height: 20%;
+	display: flex;
+	flex-direction: row;
+}
+.Line2{
+	width: 100%;
+	height: 35%;
+	display: flex;
+	flex-direction: row;
+}
+.Cubo{
+	width: 100%;
+	height: 100%;
+	color: black;
+}
+.Cabecalho{
+display:flex;
+ width: 100%;
+ color: white;
+ font-size: 3em;
+ justify-content: center;
+ align-items: center;
+ border-radius: 3px;
+ font-size: 1.7em!important;
+  height: 18%;
+	background: linear-gradient(45deg, rgba(220,198,224,1),rgba(210,82,127,1), rgba(155,89,182,1), rgba(82,179,217,1), rgba(52,152,219 ,1));
+}
+
+p{
+	color: black;
+}
+.SectionAgenda{
+	top:0;
+display: flex;
+justify-content: center;
+flex-direction: column;
+width: 100vw;
+height: 90vh;
+background-color: white;
+}
+.TitleAgenda{
+  width: 40%;
+  height: 20%;
+ background: linear-gradient(45deg, rgba(5,186,255,1), rgba(31,160,160,1), rgba(21,25,32,1));
+}
+.ContentAgenda{
+	 width: 100%;
+  height: 80%;
+  background-color: white;
+}
+.SectionTrasfer{
+	top: 0;
+	display: flex!important;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Open Sans Condensed', sans-serif!important;
+	width: 100%;
+	height: 90vh;
+    color: white;
+    font-size: 3em!important;
+	text-transform: uppercase;
+
+	background: linear-gradient(45deg, rgba(220,198,224,1),rgba(210,82,127,1), rgba(155,89,182,1), rgba(82,179,217,1), rgba(52,152,219
+		,1));
+}
+.ul{
+	width: 95%;
+	color: black;
+	font-size: 2em;
+	text-align: left;
+}
+.li{
+	margin: 15px;
+}
+.SectionMetade{
+	display: flex!important;
+flex-direction: row;
+justify-content: flex-start;
+width: 100%;
+height: 90vh;
+top: 0;
+
+}
+.MenuMetade{
+	flex-direction: column;
+	display: flex!important;
+	font-size: 1.5em!important;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	width: 35%;
+	background: linear-gradient(45deg, rgba(5,186,255,1), rgba(31,160,160,1), rgba(21,25,32,1));
+
+}
+li{
+
+	height: 35px;
+}
+.ContentMetade{
+	margin: 1px!important;
+	font-size: .6em!important;
+	text-decoration: none;
+	display: flex!important;
+	flex-direction: column;
+	color: black;
+	height: 100%;
+	width: 65%;
+	background-color: white;
+}
