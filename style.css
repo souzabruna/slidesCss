@@ -276,7 +276,8 @@ p{
 .TitleAgenda{
 	width: 40%;
 	height: 20%;
-	background: linear-gradient(45deg, rgba(5,186,255,1), rgba(31,160,160,1), rgba(21,25,32,1));
+	background: linear-gradient(45deg, rgba(5,186,255,1),
+	 rgba(31,160,160,1), rgba(21,25,32,1));
 }
 
 
